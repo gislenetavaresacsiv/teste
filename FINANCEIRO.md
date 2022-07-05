@@ -915,7 +915,7 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta <b>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_N%C3%A3o_dedutivel.PNG" /> Com esta opção marcada o plano de contas não gera imposto de renda.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrentes, marque essa opção. <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>..
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrentes, marque essa opção. <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Desativo.PNG" /> Desativa o plano de contas.
 
