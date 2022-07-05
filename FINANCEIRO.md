@@ -1307,7 +1307,7 @@ O fechamento de caixa consiste no retorno do processo diário de conferência da
 
 **d. Atendente:** Emitir o relatório por um atendente em específico. <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Atendente.png" />
 
-**e. Origem:** Selecione entre as 2 origem, se foi praticado pelo caixa ou pelo balcão de notas <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Origem.png" />. 
+**e. Origem:** Selecione entre as 2 origens, se foi praticado pelo caixa ou pelo balcão de notas <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Origem.png" />. 
 
 **f. Forma PG:** Há a possibilidade de filtrar uma forma de pagamento para ser apresentado no relatório <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Fechamento_De_caixa_Forma_De_Pagamento.png" /> .
 <br></br>
@@ -1361,7 +1361,7 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_11.PNG" />
 <br></br>
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_termo_abertura.PNG" /> Termo de abertura  utilizado para assinatura digital do livro, se configurado pelo *(Menu > Cartório > Configurações > Aba Livros)*  é possível  criar um texto pre definido *(Texto criado conforme a necessidade do cartório)* , podendo criar o texto no termo de  abertura quanto no termo de encerramento conforme imagem a seguir:
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_botao_termo_abertura.PNG" /> Termo de abertura  utilizado para assinatura digital do livro, se configurado pelo *(Menu > Cartório > Configurações > Aba Livros)*  é possível  criar um texto predefinido *(Texto criado conforme a necessidade do cartório)* , podendo criar o texto tanto no termo de  abertura quanto no termo de encerramento, de acordo com imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Botao_termo_abertura_Configuracao.PNG" />
 <br></br>
@@ -1384,7 +1384,7 @@ Diante disso, o relatório livro auxiliar tem a finalidade de apresentar as rece
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Agrupar_Servicos.PNG" /> Agrupa atos que tenha o mesmo código de tabela. *Ex.: Código da tabela 1401 Declaratória e 1401 Emancipação.*
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Impressao_sequencial.PNG" /> Exibe impressão sequencial dos atos pela data da pratica.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Impressao_sequencial.PNG" /> Exibe impressão sequencial dos atos pela data da prática.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Exibir_Plano_Contas_Despesas.PNG" /> Exibe o plano de contas nas despesas.
 
@@ -1441,7 +1441,7 @@ Relatório de livro caixa tem a finalidade de apresentar os rendimentos oriundos
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Auxiliar_Nao_Exibir_Ato_Especial.PNG" /> O ato especial não será apresentado.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_N%C3%A3o_Exibir_Lancamentos_nao_dedutiveis.PNG" /> Não será apresentado lançamentos que foi definido no plano de contas <i>(Menu > Financeiro > Plano de contas)</i>  como "Não dedutíveis".
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_N%C3%A3o_Exibir_Lancamentos_nao_dedutiveis.PNG" /> Não será apresentado nenhum lançamento que foi definido no plano de contas <i>(Menu > Financeiro > Plano de contas)</i>  como "Não dedutíveis".
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Livro_Caixa_Exibir_Somente_Contas_Resultado.PNG" /> Exibe apenas contas que foram definidas como contas de resultado no plano de contas.  
 
@@ -1478,7 +1478,7 @@ Relatório plano de contas, retorna todos os lançamentos praticados no cartóri
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Filtro.PNG" />
 <br></br>
 
-Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Botao_Visualizar.PNG" /> será exibido o relatório como abaixo:
+Ao clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Botao_Visualizar.PNG" /> será exibido o relatório como o demonstrado abaixo:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Plano_Contas_Visualiza%C3%A7%C3%A3o.PNG" />
 <br></br>
@@ -1502,9 +1502,9 @@ Relatório Receita diário exibe as receitas diárias do cartório.
 
 **d. Ordem:** Selecione entre as 2 ordens ( Cód. tabela, Código).
 
-**e. Atendente:** Será possível selecionar por um funcionário em específico.
+**e. Atendente:** Será possível filtrar por um funcionário em específico.
 
-**f. Origem:** Origem que foi realizado o ato, se foi praticado pelo caixa ou pelo balcão de notas.
+**f. Origem:** Origem da realização do ato, se foi praticado pelo caixa ou pelo balcão de notas.
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/R.Receita_Diaria_CB_Exibir_Deposito_Previo_Convertido.PNG" /> Exibe depósito prévio convertido. 
 
