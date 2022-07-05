@@ -760,9 +760,9 @@ Formas de pagamentos <i>(Menu > Financeiro > Formas de pagamentos)</i>, possíve
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Manual.PNG" /> Forma de pagamento cheque ou boleto, é necessário consultar o extrato bancário para validar se o dinheiro já se encontra na conta.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaD%2B.PNG" /> Data que será creditado na conta do cartório. <i><b>Ex.:</b> Cartão de débito, usando d+1 o pagamento cairia no dia + 1</i>.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaD%2B.PNG" /> Data que o pagamento será creditado na conta do cartório. <i><b>Ex.:</b> Cartão de débito, usando d+1 o pagamento cairia no dia + 1</i>.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaFixa.PNG" /> Data fixa para ser creditada na conta do cartório. <i><b>Ex.:</b> Cartão de crédito, dia fixo pro pagamento cair na conta.</i>
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_ProgramadaFixa.PNG" /> Data fixa para ser creditada na conta do cartório. <i><b>Ex.:</b> Cartão de crédito, dia fixo para o pagamento cair na conta.</i>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Formas_De_Pagamentos_Taxa.PNG" /> Taxa administrativa, utilizada quando houver necessidade.
 
@@ -833,7 +833,7 @@ Pesquise o mensalista que precisa ser arquivado na pasta inadimplentes pelo bin�
 
 Neste exemplo vamos filtrar o <i>mensalista teste:</i>
 
-Selecione os títulos que devem ser arquivados na pasta e clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_Receber_Botao_Abrir.PNG" />, será apresentado a seguinte tela:
+Selecione os títulos que devem ser arquivados na pasta e clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Pastas_Contas_Receber_Botao_Abrir.PNG" />, será apresentada a seguinte tela:
 <br></br>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/19_Pastas_5.PNG" />
 <br></br>
@@ -913,9 +913,9 @@ Para criar uma subconta, selecione a conta pela qual será criada a subconta <b>
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_A_Pagar.PNG" /> Marcar quando se referir a contas a pagar
 <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_Contas_Despesas.PNG" /></i>.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_N%C3%A3o_dedutivel.PNG" /> Com esta opção marcada o plano de conta não gera imposto de renda.
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_N%C3%A3o_dedutivel.PNG" /> Com esta opção marcada o plano de contas não gera imposto de renda.
 
-<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrente, marque essa opção. <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>..
+<img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Recorrente.PNG" /> Quando se tratar de despesas recorrentes, marque essa opção. <i><b>ex.:</b> <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/Plano_contas_botao_aluguel.PNG" /></i>..
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Plano_contas_Desativo.PNG" /> Desativa o plano de contas.
 
@@ -958,13 +958,13 @@ Receitas fixas <i>(Menu > Financeiro > Receitas fixas)</i>, é possível cadastr
 
 **b. Plano de contas:** Plano de contas que será creditado o título.
 
-**c. Histórico:** Histórico referente a receita lançada.
+**c. Histórico:** Histórico referente à receita lançada.
 
 **d. Complemento:** A forma que será lançado as parcelas. <i><b>Ex.:</b> Mês/Ano, Parcela.</i> 
 
 **e. Documento:** Para colocar o número do documento se o cartório trabalhar com essa opção.
 
-**f. Qtde. parcelas:** Informe o número total de parcelas a ser parceladas para o recebimento do título.
+**f. Qtde. parcelas:** Informe o número total de parcelas para o recebimento do título.
 
 **g. Valor parcela:** Valor a ser cobrado por cada parcela.
 
@@ -989,7 +989,7 @@ As parcelas foram geradas, mas para finalizar o processo, clique em <img src="ht
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_4.PNG" />
 <br></br>
 
-Para conferência das receitas fixas lançadas, acesse o <i>(Menu > Financeiro > Contas a receber)</i>, pesquise pelo nome do devedor como imagem a seguir:
+Para conferência das receitas fixas lançadas, acesse o <i>(Menu > Financeiro > Contas a receber)</i>, e pesquise pelo nome do devedor, como na imagem a seguir:
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/21_Receitas_fixas_5.PNG" />
 <br></br>
@@ -1008,7 +1008,7 @@ Remessa de boletos <i>(Menu > Financeiro > Remessa de boletos)</i> , utilizada p
 
 **Dt. emissão:** Data automática do dia da  emissão, mas poderá ser alterada.  
 
-**Dt. remessa:** Deve ser usado para gerar novamente arquivos já remetidos ao banco.
+**Dt. remessa:** Deve ser usada para gerar novamente arquivos já remetidos ao banco.
 
 **Dt. inicial:** Data automática do dia, mas poderá ser alterada caso necessário.
 
@@ -1018,10 +1018,10 @@ Remessa de boletos <i>(Menu > Financeiro > Remessa de boletos)</i> , utilizada p
 
 **Layout:** Layout de informações entre bancos e empresas.
 
-**Tabela de títulos:** Apresenta todos os boletos gerados para a conta seleciona.
+**Tabela de títulos:** Apresenta todos os boletos gerados para a conta selecionada.
 <br></br>
 
-Após realizar o preenchimento dos campos, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Botao_Gerar.PNG" />, será gerado um arquivo em txt ,pelo qual será usado para importar dentro do sistema do banco, nesse exemplo utilizamos a conta Sicoob.
+Após realizar o preenchimento dos campos, basta clicar em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Remessa_Boleto_Botao_Gerar.PNG" />, será gerado um arquivo em txt ,que será será usado para importar dentro do sistema do banco, nesse exemplo utilizamos a conta Sicoob.
 <br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/22_Remessa_Boletos_2.PNG" />  
@@ -1083,7 +1083,7 @@ Transferências <i>(Menu > Financeiro > Transferências)</i>, utilizado para rea
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_1.PNG" />
 <br></br>
 
-Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do <i>CAIXA</i> (caixa físico do cartório) para a conta bancária <i>SICOOB</i>nta bancário do cartório).
+Preencha os campos para a realização da transferência, nesse exemplo foi transferido um valor do <i>CAIXA</i> (caixa físico do cartório) para a conta bancária <i>SICOOB</i>conta bancário do cartório).
 
 Após o preenchimento dos campos, clique em <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/bot%C3%B5es/Transferir_Bot%C3%A3o.PNG" /> para efetivar a transferência entre as contas.
 <br></br>
@@ -1103,7 +1103,7 @@ Logo, a transferência será registrada no Contas a pagar / Contas a receber, <i
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/24_Transferencias_4.PNG" />
 
-**OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no  no <i>(Menu > Financeiro > Contas financeiras)</i> não movimenta a conta bancária real do cartório <i>(Controle interno)</i>.
+**OBS:** Vale lembrar que essa transferência acontece apenas dentro do cartório pelas contas cadastradas no <i>(Menu > Financeiro > Contas financeiras)</i> não movimenta a conta bancária real do cartório <i>(Controle interno)</i>.
 <br></br>
 
 
@@ -1118,7 +1118,7 @@ Os Relatórios concentram um conjunto de informações com o objetivo de reporta
 </div>
 <br>
 
-Vale lembrar, que existe a possibilidade de realizar filtros na emissão do relatório, com base no relatório de <i>contas a pagar</i> , segue exemplo: 
+Vale lembrar que existe a possibilidade de realizar filtros na emissão do relatório, com base no relatório de <i>contas a pagar</i> , segue exemplo: 
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_2.PNG" />
 
@@ -1178,7 +1178,7 @@ Demonstraremos como inserir filtros nos relatórios:
 
 <div align="center"><i>Relatório Boletos:</i></div>  
 <br></br>
-Relatório de boletos retorna todos os boletos gerados dentro do sistema.
+O Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 <br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_4.PNG" />
@@ -1190,7 +1190,7 @@ Relatório de boletos retorna todos os boletos gerados dentro do sistema.
 
 **c. Dt. final:** Data final automática do dia, mas poderá ser alterada. 
 
-**d. Conta:** É possível selecionar a conta pela qual será emitida o relatório.
+**d. Conta:** É possível selecionar a conta pela qual o relatório será emitido.
 <br></br>
 
 <div id="rcontasapagar" />
@@ -1224,13 +1224,13 @@ No relatório de contas a pagar, é possível identificar o lançamento de todas
 <div align="center"><i>Relatório Contas a receber:</i></div>  
 <br></br>
 
-Relatório de contas a receber, são concentrados todas as contas a receber do cartório.
+No Relatório de contas a receber são concentrados todas as contas a receber do cartório.
 <br></br>
 
 <img src="https://github.com/gislenetavaresacsiv/teste/blob/main/Novas_Imagens/25_Relatorios_6.PNG" /> 
 <br></br>
 
-Os campos tem as mesmas funcionalidades do relatório de contas a pagar, o que difere, que agora se trata do relatório de contas a receber.
+Os campos têm as mesmas funcionalidades do relatório de contas a pagar, o que difere é que agora se trata do relatório de contas a receber.
 <br></br>
 
 <div id="rextratodecontas" />
